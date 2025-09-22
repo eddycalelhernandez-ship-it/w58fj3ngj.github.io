@@ -8,7 +8,7 @@ arsenic
 </h1>
 arsenic is an open-source, privacy focused, feature rich, online gaming website built in Node.js. 
 
-**If you like our project, please consider giving us a star!**
+We might be block in some school so R.I.P
 
 ## Features
 
